@@ -46,15 +46,17 @@ namespace PomoiKa
 
             int rainCount = 0;
             int lightRainCount = 0;
+            int snowCount = 0;
 
             foreach (var a in list)//смотрим сколько дождей
             {
+                if (a.description.Contains("snow")) snowCount++;
                 if (a.description == "light rain") lightRainCount++;
                 if (a.description == "rain") rainCount++;
             }
 
             //оценка погоды
-            if (rainCount > 0 || lightRainCount >= 15) message = "Не стоит мыть машину";
+            if (rainCount > 0 || lightRainCount >= 15 || snowCount > 20) message = "Не стоит мыть машину";
             else message = "Можете мыть машину";
 
             Label1.Text = message;
