@@ -1,0 +1,14 @@
+D:\Pomoika\PomoiKa\PomoiKa\bin\Debug\netstandard2.0\PomoiKa.deps.json
+D:\Pomoika\PomoiKa\PomoiKa\bin\Debug\netstandard2.0\PomoiKa.dll
+D:\Pomoika\PomoiKa\PomoiKa\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Pomoika\PomoiKa\PomoiKa\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Pomoika\PomoiKa\PomoiKa\obj\Debug\netstandard2.0\PomoiKa.AssemblyInfoInputs.cache
+D:\Pomoika\PomoiKa\PomoiKa\obj\Debug\netstandard2.0\PomoiKa.AssemblyInfo.cs
+D:\Pomoika\PomoiKa\PomoiKa\bin\Debug\netstandard2.0\ref\PomoiKa.dll
+D:\Pomoika\PomoiKa\PomoiKa\bin\Debug\netstandard2.0\PomoiKa.pdb
+D:\Pomoika\PomoiKa\PomoiKa\obj\Debug\netstandard2.0\PomoiKa.dll
+D:\Pomoika\PomoiKa\PomoiKa\obj\Debug\netstandard2.0\ref\PomoiKa.dll
+D:\Pomoika\PomoiKa\PomoiKa\obj\Debug\netstandard2.0\PomoiKa.pdb
+D:\Pomoika\PomoiKa\PomoiKa\obj\Debug\netstandard2.0\PomoiKa.csproj.CoreCompileInputs.cache
+D:\Pomoika\PomoiKa\PomoiKa\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Pomoika\PomoiKa\PomoiKa\obj\Debug\netstandard2.0\PomoiKa.csprojAssemblyReference.cache
